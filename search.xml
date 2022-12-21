@@ -1,83 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test14</title>
-    <url>/2022/12/20/test14/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test13</title>
-    <url>/2022/12/20/test13/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test12</title>
-    <url>/2022/12/20/test12/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test11</title>
-    <url>/2022/12/20/test11/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test4</title>
-    <url>/2022/12/20/test4/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test2</title>
-    <url>/2022/12/20/test2/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test1</title>
-    <url>/2022/12/20/test1/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2022/12/20/test/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>角度</title>
-    <url>/2022/12/20/%E8%A7%92%E5%BA%A6/</url>
-    <content><![CDATA[<h1 id="s是是"><a href="#s是是" class="headerlink" title="s是是"></a>s是是</h1><span id="more"></span>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Menu</span><br><span class="line">menu:</span><br><span class="line">  首页: /</span><br><span class="line">  文章: /archives</span><br><span class="line">  相册: /gallery</span><br><span class="line">  关于: /about</span><br><span class="line">rss: /atom.xml</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># Miscellaneous</span><br><span class="line">favicon: /favicon.ico</span><br><span class="line">brand: /images/hexo.svg</span><br><span class="line"></span><br><span class="line"># Ocean Video</span><br><span class="line"># Because I put videos in multiple formats on the same path, I just labeled the path here.</span><br><span class="line">ocean:</span><br><span class="line">  overlay: true</span><br><span class="line">  path: /images/ocean/</span><br><span class="line">  brand: /images/hexo-inverted.svg</span><br><span class="line"></span><br><span class="line"># Content</span><br><span class="line">excerpt_link: Read More...</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># MIIT ICP/IP/DOMAIN</span><br><span class="line">beian:</span><br><span class="line">  enable: true</span><br><span class="line">  number: </span><br><span class="line">  url: https://beian.miit.gov.cn/</span><br><span class="line"></span><br><span class="line"># Tags</span><br><span class="line">show_count: true</span><br><span class="line"></span><br><span class="line"># Toc</span><br><span class="line">toc: true</span><br><span class="line"></span><br><span class="line"># fancybox</span><br><span class="line">fancybox: true</span><br><span class="line"></span><br><span class="line"># 是否显示复制按钮</span><br><span class="line">show_copy_btn: true</span><br><span class="line"></span><br><span class="line"># Gitalk</span><br><span class="line">gitalk:</span><br><span class="line">  enable: true # true</span><br><span class="line">  clientID: # GitHub Application Client ID</span><br><span class="line">  clientSecret: # Client Secret</span><br><span class="line">  repo: # Repository name</span><br><span class="line">  owner: # GitHub ID</span><br><span class="line">  admin: # GitHub ID</span><br><span class="line"></span><br><span class="line"># Valine</span><br><span class="line">valine:</span><br><span class="line">  enable: false # true</span><br><span class="line">  el: &#x27;vcomments&#x27;</span><br><span class="line">  appId:</span><br><span class="line">  appKey:</span><br><span class="line">  notify: false</span><br><span class="line">  verify: true</span><br><span class="line">  avatar: &#x27;mp&#x27;</span><br><span class="line">  pageSize: &#x27;10&#x27;</span><br><span class="line">  placeholder: &#x27;请输入...&#x27;</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>共语言</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>映射</title>
-    <url>/2022/12/20/%E6%98%A0%E5%B0%84/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>设计</title>
-    <url>/2022/12/20/%E8%AE%BE%E8%AE%A1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/2022/12/20/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><h2 id="角度"><a href="#角度" class="headerlink" title="角度"></a>角度</h2><p>ji cjisd jcis</p>
-]]></content>
-      <tags>
-        <tag>dlf</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/12/20/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<p>第一个模板文件</p>
+<span id="more"></span>
+
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -91,5 +20,8 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>模板</tag>
+      </tags>
   </entry>
 </search>
